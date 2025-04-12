@@ -11,12 +11,8 @@ Echoes in Frames is a creative project that presents visuals, thoughts, or code 
 - Artistic theme
 
 ## Tech Stack
-- HTML / CSS / JS (or whatever tech you're using)
+- HTML / CSS 
 
-## How to View
-Open `index.html` in your browser  
-—or—  
-Deploy using GitHub Pages
 
 ## License
 MIT License
